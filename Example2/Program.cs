@@ -22,20 +22,3 @@ else
 }
 Console.WriteLine($"Max = {max}");
 Console.WriteLine($"Min = {min}");
-
-// if(number1 * number1 == number2){
-//     Console.Write("Да");    
-// }
-// else{
-//     Console.Write("Нет"); 
-// }
-
-// int num = new Random().Next(10, 100);
-// Console.WriteLine($"Num = {num}");
-// int num1 = num / 10;
-// int num2 = num % 10;
-// int max = num2;
-// if(num1 > num2){
-//     max = num1;
-// }
-// Console.WriteLine($"Max = {max}");
