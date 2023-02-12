@@ -1,25 +1,22 @@
 ﻿Console.Clear();
-//Console.SetCursorPosition(10, 4);
-//Console.WriteLine("O");
-
-int xa = 30, ya = 1,
-    xb = 1, yb = 10,
-    xc = 60, yc = 10;
-
-Console.SetCursorPosition(xa, ya);
+Console.SetCursorPosition(10, 4);
 Console.WriteLine("O");
 
-Console.SetCursorPosition(xb, yb);
-Console.WriteLine("O");
+int xa = 1, ya = 1,
+xb = 1, yb = 30,
+xc = 40; yc = 30;
 
-Console.SetCursorPosition(xc, yc);
-Console.WriteLine("O");
-
+Console.Set.CursorPosition(xa, ya);
+Console.WriteLine("0");
+Console.Set.CursorPosition(xb, yb);
+Console.WriteLine("0");
+Console.Set.CursorPosition(xc, yc);
+Console.WriteLine("0");
 int x = xa, y = xb;
 
 int count = 10;
 
-while(count < 100);
+while(count < 10000);
 {
     int what = new Random().Next(0, 3); // (0,3) 0 1 2
     if(what == 0)
@@ -44,3 +41,4 @@ while(count < 100);
     Console.WriteLine("0");
     count++;
 }
+

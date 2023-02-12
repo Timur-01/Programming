@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cptbo\\Desktop\\Программирование\\04\\04.csproj": {}
+    "C:\\Users\\cptbo\\Desktop\\Programming\\04\\04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cptbo\\Desktop\\Программирование\\04\\04.csproj": {
+    "C:\\Users\\cptbo\\Desktop\\Programming\\04\\04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cptbo\\Desktop\\Программирование\\04\\04.csproj",
+        "projectUniqueName": "C:\\Users\\cptbo\\Desktop\\Programming\\04\\04.csproj",
         "projectName": "04",
-        "projectPath": "C:\\Users\\cptbo\\Desktop\\Программирование\\04\\04.csproj",
+        "projectPath": "C:\\Users\\cptbo\\Desktop\\Programming\\04\\04.csproj",
         "packagesPath": "C:\\Users\\cptbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cptbo\\Desktop\\Программирование\\04\\obj\\",
+        "outputPath": "C:\\Users\\cptbo\\Desktop\\Programming\\04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cptbo\\AppData\\Roaming\\NuGet\\NuGet.Config"

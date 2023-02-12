@@ -11,3 +11,4 @@ while(i <= number){
         Console.Write($"{i} ");
     i = i + 2;
 }
+
