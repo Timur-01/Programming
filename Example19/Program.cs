@@ -12,6 +12,11 @@ if (number < 10000 || number > 99999){
     Console.WriteLine("Введено не пятизначное число");
     return;
 
+// else
+// {
+//     Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
+// }
+
 }else if(number / 10000 == number % 10 && (number/1000)%10 == (number%100)/10){
     Console.WriteLine("Число палиндром");
 }
